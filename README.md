@@ -1,6 +1,7 @@
 # PIML
 This project develops a hybrid, interpretable framework that integrates physics-based resistance-capacitance (RC) models with machine learning regression algorithms to predict indoor thermal dynamics in buildings. The workflow demonstrates how domain knowledge can be embedded within data-driven models to enhance interpretability and accuracy
 
+
 🔹 Key Features:
 
 Implemented XGBoost and Neural Network (TensorFlow/Keras) regression models trained on time-series data (100k+ records) generated from validated ASHRAE 140 benchmark cases.
@@ -13,9 +14,11 @@ Visualised model behaviour through residual analysis and feature importance plot
 
 Includes modular code for RC network generation, data simulation, and ML pipeline automation.
 
+
 🔹 Technical Stack:
 
 Python, XGBoost, TensorFlow, Keras, scikit-learn, NumPy, Matplotlib, Pandas
+
 
 🔹 Applications:
 
