@@ -4,11 +4,11 @@ This project develops a hybrid, interpretable framework that integrates physics-
 
 🔹 Key Features:
 
-Implemented XGBoost and Neural Network (TensorFlow/Keras) regression models trained on time-series data (100k+ records) generated from validated ASHRAE 140 benchmark cases.
+Implemented **XGBoost** and **Neural Network (TensorFlow/Keras)** regression models trained on time-series data (100k+ records) generated from validated **ASHRAE 140** benchmark cases.
 
-Conducted data preprocessing, scaling, and feature selection using scikit-learn, improving model generalisation and stability.
+Conducted data preprocessing, scaling, and feature selection using **scikit-learn**, improving model generalisation and stability.
 
-Achieved R² = 0.93 and MAE = 2.0 °C in high-mass cases, highlighting strong predictive performance.
+Achieved **R² = 0.93** and **MAE = 2.0 °C** in high-mass cases, highlighting strong predictive performance.
 
 Visualised model behaviour through residual analysis and feature importance plots, supporting explainable decision-making.
 
