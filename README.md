@@ -20,6 +20,6 @@ Includes modular code for RC network generation, data simulation, and ML pipelin
 Python, XGBoost, TensorFlow, Keras, scikit-learn, NumPy, Matplotlib, Pandas
 
 
-🔹 **Applications
-**
+🔹 **Applications**
+
 Energy performance forecasting • Model interpretability • Time-series regression • Data analytics • Physics-informed ML
