@@ -22,4 +22,4 @@ Python, XGBoost, TensorFlow, Keras, scikit-learn, NumPy, Matplotlib, Pandas
 
 🔹 **Applications**
 
-Energy performance forecasting • Model interpretability • Time-series regression • Data analytics • Physics-informed ML
+Energy performance forecasting, Model interpretability, Time-series regression, Data analytics, Physics-informed ML
